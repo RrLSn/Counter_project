@@ -6,14 +6,13 @@ An implementation of A Number Counter with HTML/CSS
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/Random_Quote.git
-
+Your browser version must be recent for a better experience https://github.com/RrLSn/Counter_project.git
 # Tech/framework used
 HTML
 CSS
 
 # Demo
-[preview]()
+[preview](https://spiffy-cassata-c29d77.netlify.app)
 
 
 # Contact
