@@ -44,7 +44,8 @@ h1{
     justify-content: space-around;
 }
 
-.button{
+#add-button,
+#less-button{
     width: 8rem;
     height: 2.5rem;
     background-color: #0d2c54;
@@ -57,7 +58,8 @@ h1{
     cursor: pointer;
 }
 
-.button:hover{
+#add-button:hover,
+#less-button:hover{
     background-color: #00a6ed;
 }
 
@@ -93,7 +95,8 @@ h1{
         gap: 1rem;
     }
 
-    .button{
+    #add-button,
+    #less-button{
         height: 5rem;
         width: 10rem;
         font-size: 1rem;
